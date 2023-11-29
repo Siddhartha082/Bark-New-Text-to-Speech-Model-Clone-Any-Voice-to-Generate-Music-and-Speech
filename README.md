@@ -3,6 +3,9 @@
      
 # 🐶 Bark
 
+![image](https://github.com/Siddhartha082/Bark-New-Text-to-Speech-Model-Clone-Any-Voice-to-Generate-Music-and-Speech/assets/110781138/32d4a5b2-3dd3-4b22-9948-51186014a819)
+
+
 [![](https://dcbadge.vercel.app/api/server/J2B2vsjKuE?style=flat&compact=True)](https://suno.ai/discord)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/FM.svg?style=social&label=@suno_ai_)](https://twitter.com/suno_ai_)
 
